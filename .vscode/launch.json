@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug ServingApi",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/src/ServingApi/bin/Debug/net8.0/ServingApi.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/ServingApi",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
