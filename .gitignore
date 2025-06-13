@@ -1,0 +1,52 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+# Docker
+**/docker-compose.override.yml
+**/.env
+
+# Kafka/Confluent temporary data (if any)
+*.pid
+*.lock
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testresult
+
+# Others
+*.db
+*.sqlite
+*.pdb
+*.cache
+*.bak
+*.tmp
+*.v2
+/.vs
+/src/BatchProcessor/bin

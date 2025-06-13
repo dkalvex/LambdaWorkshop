@@ -102,3 +102,4 @@ C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\BatchProcessor\obj\Debug\net
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\BatchProcessor\obj\Debug\net8.0\BatchProcessor.pdb
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\BatchProcessor\obj\Debug\net8.0\BatchProcessor.genruntimeconfig.cache
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\BatchProcessor\obj\Debug\net8.0\ref\BatchProcessor.dll
+C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\BatchProcessor\obj\Debug\net8.0\BatchProcessor.sourcelink.json

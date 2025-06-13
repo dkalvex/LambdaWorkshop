@@ -1,4 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
+using SpeedProcessor.Services;
 
 namespace LambdaWorkshop.SpeedProcessor;
 public static class DependencyInjection
@@ -11,6 +12,9 @@ public static class DependencyInjection
             //Add all IRequestHandlers defined in this API
             mediatr.RegisterServicesFromAssembly(LambdaWorkshopAssemblyReference.Assembly);
         });
+
+        
+        services.AddHostedService<KafkaConsumerService>();
         
         return services;
     }

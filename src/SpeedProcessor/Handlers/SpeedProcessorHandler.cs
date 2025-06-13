@@ -5,7 +5,7 @@ public class SpeedProcessorHandler : INotificationHandler<EventReceived>
 {
     public Task Handle(EventReceived notification, CancellationToken cancellationToken)
     {
-        Console.WriteLine($"[SpeedProcessor] ⏱ Procesando evento rápido: {notification.Payload}");
+        Console.WriteLine($"[SpeedProcessor] ⏱ Procesando evento rápido: {notification.Source} - {notification.Payload}");
         return Task.CompletedTask;
     }
 }

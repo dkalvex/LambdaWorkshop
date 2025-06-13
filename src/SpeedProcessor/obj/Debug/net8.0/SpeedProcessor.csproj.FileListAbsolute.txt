@@ -28,3 +28,4 @@ C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\SpeedProcessor\obj\Debug\net
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\SpeedProcessor\obj\Debug\net8.0\refint\SpeedProcessor.dll
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\SpeedProcessor\obj\Debug\net8.0\SpeedProcessor.pdb
 C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\SpeedProcessor\obj\Debug\net8.0\ref\SpeedProcessor.dll
+C:\Users\daniel.galvez\Documents\LambdaWorkshop\src\SpeedProcessor\obj\Debug\net8.0\SpeedProcessor.sourcelink.json
